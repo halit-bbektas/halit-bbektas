@@ -14,11 +14,10 @@
 
 ### Hakkımda
 
-Yazılımın masa başında kalmayıp sahada çalıştığı işleri seviyorum. Üniversitemde öğrenci ve personelin
-her gün kullandığı web sistemlerini baştan sona geliştirdim; TEKNOFEST'te otonom İHA takımında yazılım
-tarafında çalışıyorum.
+Kırşehir Ahi Evran Üniversitesi için web sistemleri tasarlayıp geliştiriyorum; TEKNOFEST'te otonom İHA
+takımında yazılım tarafında çalışıyorum.
 
-- 🌐 **Üniversite web sistemleri:** diyetisyen ve spor danışmanlığı randevu sistemleri, Kuş Gözlem Platformu; üçü de yayında
+- 🌐 **Üniversite web sistemleri:** diyetisyen ve spor danışmanlığı randevu sistemleri, Kuş Gözlem Platformu; hepsi yayında
 - 🚁 **Otonom sistemler:** AHİHA takımı · TEKNOFEST Sürü İHA · Uluslararası İHA Döner Kanat
 - 🔧 **Gömülü:** Deneyap atölyeleri için açık kaynak donanım test aracı
 - 🎯 **Hedef:** millî savunma ve havacılık teknolojilerinde yerli ve özgün sistemler geliştirmek
@@ -64,7 +63,3 @@ tarafında çalışıyorum.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white)
-
----
-
-<p align="center"><i>Sahada çalışan yazılım.</i></p>
